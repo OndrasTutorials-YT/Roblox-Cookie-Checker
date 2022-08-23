@@ -2,7 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/98252854/186281735-b74c46e9-23fa-4f93-855f-29be2649bcda.png)
 
-enter the cookie and it will pull all info showed above\n
 
 ⚙️**TO USE**
 Just run the program then enter your cookie after enter the webhook you want the information sent to
