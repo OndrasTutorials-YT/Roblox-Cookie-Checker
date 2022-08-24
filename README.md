@@ -1,7 +1,6 @@
 # **Simple Roblox Cookie Checker**
 
-#### ![image](https://user-images.githubusercontent.com/98252854/186281735-b74c46e9-23fa-4f93-855f-29be2649bcda.png)
-
+![holdon](https://user-images.githubusercontent.com/98252854/186484637-42072161-eace-43e9-9a2c-cb07bc1d0d15.png)
 
 ## ⚙️**TO USE**
 #### Just run the program then enter your cookie after enter the webhook you want the information sent to
