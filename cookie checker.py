@@ -1,6 +1,5 @@
 import os
 import time
-import base64
 class main(object):
     def __init__(self):
         try:
